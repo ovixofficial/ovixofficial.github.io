@@ -3,3 +3,27 @@ html, body {
     background-size: 100%;
     background-attachment: fixed;
     }
+
+    h2 {
+        font-family: Arial;
+        background-color: magenta;
+        color:white;
+        font-size: 180%
+    }
+    h3 {
+        font-family: Verdana;
+        background-color: darkcyan;
+        color:white;
+        font-size: 200%;
+    }
+    p {
+        font-family: Arial;
+        color: white;
+        font-weight: bold;
+    }
+
+    a {
+        font-family: Arial;
+        color:aquamarine;
+        font-weight: bold;
+    }
